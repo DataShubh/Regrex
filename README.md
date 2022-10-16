@@ -7,7 +7,7 @@ Regex to extract all the numbers after ':' from the below text in italics.
 
 
 
-                                             ----------------x---------- sample guidance-----------------------------x--------------- 
+                                ----------------x---------- sample guidance-----------------------------x--------------- 
 
 
 
