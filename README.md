@@ -80,8 +80,10 @@ dict_values([653])
 dict_values([3, '[PHP Warning #2] 
 count(): Parameter must be an array or an object that implements Countable (153)'])"""
 
->>>d[k][i].keys() here K = (orders and errors), i = length of order or length of errors
-dict_keys(['id'])
+
+
+d[k][i].keys() here K = (orders and errors), i = length of order or length of errors
+>>dict_keys(['id'])
 dict_keys(['id'])
 dict_keys(['id'])
 dict_keys(['id'])
